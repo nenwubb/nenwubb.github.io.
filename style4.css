@@ -1,0 +1,25 @@
+body {
+    background-image: url("./images/背景4.jpg");
+    background-size: 100%; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+.rectangle {
+    width: 1145px;
+    height: 800px;
+    background-color: rgb(190, 175, 175, 0.5);
+    float: none;
+    margin: 50px auto; 
+    font-size: 120%; 
+    color: rgb(255, 255, 255, 1);
+    text-indent: 2em;
+    margin-left: 50px; 
+    margin-right: 50px; 
+}  
+a {
+        color: white;
+        font-size: large;
+        text-decoration:underline;
+        display:flex; 
+}

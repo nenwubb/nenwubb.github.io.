@@ -1,0 +1,36 @@
+body {
+  background-image: url("./images/背景1-2.webp");
+  background-size: 100%; 
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-attachment: fixed; 
+}
+.navbar {
+  position: fixed;
+  top: 0.8cm;
+  right: 0;
+  width: 900px;
+  height: 7%;
+  background-color: #cd8650;
+  display: flex;
+  justify-content:space-between;
+  padding-top: 10px; 
+}
+.navbar a {
+  color:bisque;
+  text-decoration:underline;
+  font-size: 18px;
+  margin: 0 80px;
+}
+.rectangle {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(190, 175, 175, 0.5);
+  float:left;
+  margin-left: 50px;
+  margin-top: 5%;
+  padding: 10px;
+  font-size: 120%; 
+  color: rgb(255, 255, 255, 1);
+  text-indent: 2em;
+}

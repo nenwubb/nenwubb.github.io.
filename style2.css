@@ -1,0 +1,26 @@
+body {
+    background-image: url("./images/背景1-2.webp");
+    background-size: 100%; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+    
+.rectangle {
+    width: 1145px;
+    height: 800px;
+    background-color: rgb(190, 175, 175, 0.5);
+    float: none;
+    margin: 50px auto; /* set a margin-top, margin-bottom, and margin-left/right of 50px */
+    font-size: 120%; 
+    color: rgb(255, 255, 255, 1);
+    text-indent: 2em;
+    margin-left: 50px; /* set margin-left to the same value as margin-top and margin-bottom */
+    margin-right: 50px; /* set margin-right to the same value as margin-top and margin-bottom */
+    }  
+a {
+    color: white;
+    font-size: large;
+	text-decoration:underline;
+	display:flex; 
+}
